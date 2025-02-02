@@ -41,8 +41,7 @@ https://github.com/Dun9Dev/homework/commit/1e52b55872282870864de11f8a3818e07b524
 В качестве ответа добавьте ссылку на этот коммит в ваш md-файл с решением.
 
 ### Решение 2
-https://github.com/Dun9Dev/homework/commit/bb00f0bb8f1466599a00019cdb19f6d840a9db2e
-
+https://github.com/Dun9Dev/homework/commit/291e30fd389b9b1937f8cd3ea386a3a919b7cabe
 
 ---
 
